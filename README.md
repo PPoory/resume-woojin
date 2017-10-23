@@ -1,1 +1,1 @@
-# resume-woojin
+# 연우진 이력서
